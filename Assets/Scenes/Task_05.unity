@@ -119,6 +119,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &417192193 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8840570081916951788, guid: c294b21b40998c246ac81976ae564160, type: 3}
+  m_PrefabInstance: {fileID: 1263571175}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &444271907
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -542,6 +547,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ObjectPositionSaver
   objectsToSave:
   - {fileID: 1953402778}
+  - {fileID: 417192193}
 --- !u!4 &804681669
 Transform:
   m_ObjectHideFlags: 0
